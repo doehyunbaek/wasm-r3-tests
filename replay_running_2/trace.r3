@@ -1,0 +1,11 @@
+EC;3;wasm0;
+IC;1;host2
+EC;2;wasm1;5,1
+IR;1;host2;
+IC;0;host1
+EC;2;wasm1;5,1
+IR;0;host1;
+IC;0;host1
+EC;2;wasm1;5,1
+IR;0;host1;
+ER

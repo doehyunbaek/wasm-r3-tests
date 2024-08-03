@@ -1,0 +1,12 @@
+EC;1;entry;1
+IC;0;foo
+IR;0;foo;
+ER
+EC;1;entry;3
+IC;0;foo
+IR;0;foo;
+ER
+EC;1;entry;4
+IC;0;foo
+IR;0;foo;
+ER

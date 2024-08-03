@@ -1,0 +1,16 @@
+EC;2;entry;
+IC;0;changeMemAfterReentry
+EC;3;reentry;
+IR;0;changeMemAfterReentry;
+L;0;memory;1;1
+L;0;memory;2;0
+L;0;memory;3;0
+L;0;memory;4;0
+IC;1;changeMemBeforeReentry
+EC;3;reentry;
+L;0;memory;1;1
+L;0;memory;2;0
+L;0;memory;3;0
+L;0;memory;4;0
+IR;1;changeMemBeforeReentry;
+ER
