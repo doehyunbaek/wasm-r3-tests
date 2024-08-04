@@ -1,10 +1,10 @@
 EC;2;entry;
-IC;0;foo
+IC;0
 EC;3;exp;
-IC;1;bar
-IR;1;bar;
+IC;1
+IR;1;
 EC;3;exp;
-IC;1;bar
-IR;1;bar;
-IR;0;foo;
+IC;1
+IR;1;
+IR;0;
 ER

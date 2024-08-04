@@ -1,5 +1,5 @@
 EC;1;entry;
-IC;0;changeTable
-IR;0;changeTable;
+IC;0
+IR;0;
 T;0;table;0;3;foo
 ER

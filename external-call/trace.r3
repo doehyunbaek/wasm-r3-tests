@@ -8,8 +8,8 @@ L;0;memory;1114121;101
 L;0;memory;1114122;108
 L;0;memory;1114123;108
 L;0;memory;1114124;111
-IC;0;__wbg_log_24dc0bd9d833d95d
-IR;0;__wbg_log_24dc0bd9d833d95d;
+IC;0
+IR;0;
 ER
 EC;41;__wbindgen_add_to_stack_pointer;16
 ER
@@ -25,8 +25,8 @@ L;0;memory;1114121;111
 L;0;memory;1114122;114
 L;0;memory;1114123;108
 L;0;memory;1114124;100
-IC;0;__wbg_log_24dc0bd9d833d95d
-IR;0;__wbg_log_24dc0bd9d833d95d;
+IC;0
+IR;0;
 ER
 EC;41;__wbindgen_add_to_stack_pointer;16
 ER

@@ -1,6 +1,6 @@
 EC;1;entry;
-IC;0;changeMem
-IR;0;changeMem;262140
+IC;0
+IR;0;262140
 MG;0;mem;3
 L;0;mem;262140;96
 L;0;mem;262141;0

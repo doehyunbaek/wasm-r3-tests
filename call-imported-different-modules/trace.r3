@@ -1,6 +1,6 @@
 EC;2;entry;
-IC;0;foo
-IR;0;foo;
-IC;1;bar
-IR;1;bar;
+IC;0
+IR;0;
+IC;1
+IR;1;
 ER

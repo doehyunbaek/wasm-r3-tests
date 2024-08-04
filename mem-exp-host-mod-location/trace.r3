@@ -1,8 +1,8 @@
 EC;2;entry;
-IC;1;nop
-IR;1;nop;
-IC;0;changeMem
-IR;0;changeMem;
+IC;1
+IR;1;
+IC;0
+IR;0;
 L;0;memory;1;1
 L;0;memory;2;0
 L;0;memory;3;0
