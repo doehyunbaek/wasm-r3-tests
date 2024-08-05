@@ -1,8 +1,8 @@
-IG;0;env;DYNAMICTOP_PTR;i32;0;0
-IG;1;env;STACKTOP;i32;0;0
-IG;2;env;STACK_MAX;i32;0;0
-IG;3;env;memoryBase;i32;0;0
-IG;4;env;tableBase;i32;0;0
+IG;0;0
+IG;1;0
+IG;2;0
+IG;3;0
+IG;4;0
 EC;26;_fib;40
 ER
 EC;26;_fib;40
