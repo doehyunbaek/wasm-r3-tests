@@ -7,10 +7,10 @@ IC;3
 IR;3;
 IR;2;
 IR;0;
-L;0;memory;1;1
-L;0;memory;2;0
-L;0;memory;3;0
-L;0;memory;4;0
+L;0;1;1
+L;0;2;0
+L;0;3;0
+L;0;4;0
 IC;1
 EC;5;reentry;
 IC;2
@@ -19,8 +19,8 @@ IC;3
 IR;3;
 IR;2;
 IR;1;
-L;0;memory;1;2
-L;0;memory;2;0
-L;0;memory;3;0
-L;0;memory;4;0
+L;0;1;2
+L;0;2;0
+L;0;3;0
+L;0;4;0
 ER

@@ -3,8 +3,8 @@ IC;0
 IR;0;
 ER
 EC;2;exp;
-L;0;memory;1;1
-L;0;memory;2;0
-L;0;memory;3;0
-L;0;memory;4;0
+L;0;1;1
+L;0;2;0
+L;0;3;0
+L;0;4;0
 ER
